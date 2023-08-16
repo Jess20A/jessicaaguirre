@@ -15,5 +15,4 @@
 [<img align="left" alt="Jessica | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jessica | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/Josh
 [linkedin]: https://linkedin.com/in/jessica-aguirre-81979a277
