@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jessica, an <a href="https://linkedin.com/in/jessica-aguirre-81979a277">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jessica, an <a href="https://linkedin.com/in/jessica-aguirre-81979a277">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
