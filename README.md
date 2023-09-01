@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Jess20A/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Jess20A/configure-ad)
-  - [Network Security Groups (NSG's) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/Jess20A/virtual-machine)
+  - [Network Security Groups (NSG's) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/Jess20A/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
